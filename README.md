@@ -4,7 +4,7 @@
 
 - <b>Pentesting</b>
   - [Tryhackme](https://)
-- <b>IRGC</b>
+- <b>SOC 1 Analyst</b>
   - [Tryhackme](https://)
   
   <h2>📺 Certificatoins</h2>
