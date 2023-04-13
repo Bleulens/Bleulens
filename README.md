@@ -9,7 +9,7 @@
   
   <h2>📺 Certificatoins</h2>
 
-- [Google IT Support Professional](https:/)
+- [Google IT Support Professional](Coursera%20IT%20support%20fundamentals%20certificate%20course%201.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
