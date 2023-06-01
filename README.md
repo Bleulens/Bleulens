@@ -1,6 +1,6 @@
-<h1>Hi, I'm Marvin! <br/><a> An aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Marvin! <br/><a> A Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Labs:</h2>
 
 - <b>Pentesting</b>
   - [Tryhackme](https://)
