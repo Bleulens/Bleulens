@@ -1,19 +1,8 @@
-<h1>Hi, I'm Marvin! <br/><a> A Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Marvin! <br>a cloud engineer</h1>
 
+<h2>My History</h2>
 
-<h2>📺 Certifications</h2>
+<p>I've always been interested in technology.  Opening up a desktop pc for the first time to add an ethernet card.  Learned some html, css, and javascript for the first time. Learned python, golang, explored cybersecurity, networking, linux, and then got into the cloud.  AWS specifically.  Came back around to html, css and javascript. I've recently looked into robotic process automation.  My main focus for now is the cloud.</p> 
 
-- [Google IT Support Professional](https://Bleulens.github.io/Bleulens/Coursera%20IT%20support%20fundamentals%20certificate%20course%201.pdf)
-  ![THM-NJRB8OGLCF](https://github.com/Bleulens/Bleulens/assets/100436779/68eefe2d-adde-46b6-bc85-7587fba5293b)![THM-HSD3N9SVPH](https://github.com/Bleulens/Bleulens/assets/100436779/803d6406-3fe5-410d-96f1-d56e9cad982f)
-
-  
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/marvin-stewart-42b81580/
-
+<h2>My Goal</h2>
+<p>I wasn't exposed to tech from a young age like it seems a lot of people were, so I feel like I have a lot of ground to cover.  What I want is to build my skills and knowledge to the point where I can make a real impact on a team.   </p>
