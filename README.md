@@ -24,7 +24,7 @@ My aim is to contribute to projects that drive innovation and efficiency in the 
 - **Tools:** Terraform, GitHub Actions, Linux  
 
 ## 🚀 Featured Projects
-- **[Terraform AWS Registry](https://github.com/marvin-aws-modules/terraform-registry)**  
+- **[Terraform AWS Registry](https://github.com/marvin-aws-modules)**  
   Published Terraform modules for AWS infrastructure, designed for reusability and professional deployment workflows.  
 
 - **[cloud-automation-scripting](https://github.com/Bleulens/cloud-automation-scripting)**  
