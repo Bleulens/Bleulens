@@ -1,8 +1,28 @@
-<h1>Hi, I'm Marvin! <br>a cloud engineer</h1>
+# Hi, I'm Marvin 👋  
+### Cloud Engineer
 
-<h2>My History</h2>
+## 📜 My Journey
+- Started with hardware tinkering (adding an ethernet card to a Gateway PC).  
+- Learned **HTML, CSS, JavaScript**, then expanded into **Python** and **Go**.  
+- Explored **cybersecurity, networking, Linux**, and eventually specialized in **AWS Cloud**.  
+- Recently explored **Robotic Process Automation (RPA)**.  
+- Today, my main focus is **cloud engineering and automation**.
 
-<p>I've always been interested in technology.  Opening up a Gateway pc for the first time to add an ethernet card.  Learned some html, css, and javascript for the first time. Learned python, golang, explored cybersecurity, networking, linux, and then got into the cloud.  AWS specifically.  Came back around to html, css and javascript. I've recently looked into robotic process automation.  My main focus for now is the cloud.</p> 
+## 🎯 My Goal
+I’m committed to building my skills and knowledge to make a meaningful impact on engineering teams. My aim is to contribute to projects that drive innovation and efficiency in the cloud.
 
-<h2>My Goal</h2>
-<p>I wasn't exposed to tech from a young age like it seems a lot of people were, so I feel like I have a lot of ground to cover.  What I want is to build my skills and knowledge to the point where I can make a real impact on a team.   </p>
+## ⚙️ Tech Stack
+- **Cloud:** AWS  
+- **Languages:** Python, Go, JavaScript  
+- **Tools:** Terraform, GitHub Actions, Linux  
+
+## 🚀 Featured Projects
+- **[cloud-automation-scripting](https://github.com/Bleulens/cloud-automation-scripting)** – Scripts for automating cloud workflows.  
+- **[automated-serverless-pipeline](https://github.com/Bleulens/automated-serverless-pipeline)** – Pipeline framework for serverless deployments.  
+- **[terraform-aws-skeleton](https://github.com/Bleulens/terraform-aws-skeleton)** – Starter templates for AWS infrastructure with Terraform.  
+
+## 🔗 Connect
+- [My GitHub Organization](https://github.com/YOUR-ORG-NAME)
+
+![Marvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bleulens&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bleulens&layout=compact&theme=radical)
