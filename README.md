@@ -1,5 +1,5 @@
 # Hi, I'm Marvin 👋  
-### Aspiring Cloud Engineer | AWS Certified Solutions Architect – Associate
+### Cloud Engineer | AWS Certified Solutions Architect – Associate
 
 ## 📜 My Journey
 - Started with hardware tinkering (adding an ethernet card to a Gateway PC).  
